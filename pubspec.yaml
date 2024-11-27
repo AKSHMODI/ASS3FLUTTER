@@ -1,0 +1,8 @@
+name: food_ordering_app
+description: A food ordering app.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.3+1  # SQLite database package
+  path: ^1.8.0  # For working with file paths in sqflite
